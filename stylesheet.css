@@ -1,0 +1,36 @@
+.bio{
+    text-align: right;
+}
+
+*{
+    text-align: left;
+    font-family:'Times New Roman', Times, serif;
+    background-color: #FFF8E8;
+}
+
+h3{
+    font-style: italic;
+}
+
+.contread{
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    color: #674636;
+    
+}
+
+.biopic{
+
+    margin-left: auto;
+}
+
+.github{
+
+    border-radius: 100%;
+    
+}
+
+h1{
+    color: #674636;
+}

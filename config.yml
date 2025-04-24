@@ -54,7 +54,7 @@ params:
           enabled: true
           title: Abhinav Jata
           subtitle: "Hi."
-          imageUrl: "picture.jpeg"
+          imageUrl: "1c11fb41fe5e8057f2eba1fcdb547646.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
@@ -71,25 +71,15 @@ params:
             - name: Archive
               url: archive/
             - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+              url: https://lifeislikethemeyerscurve.wordpress.com/
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: mailto:abhinav.jata.986@gmail.com
         - name: GitHub
           url: https://github.com/abhinjata
-        - name: Substack
-          url: https://pmichaillat.substack.com
         - name: Twitter
           url: https://x.com/letsgraphmylife
 

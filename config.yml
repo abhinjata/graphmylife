@@ -1,5 +1,5 @@
 baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+title: Graph My Life
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -10,8 +10,8 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
+        - name: Articles
+          url: articles/
           weight: 5 
         - name: Papers
           url: papers/

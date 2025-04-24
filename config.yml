@@ -90,10 +90,8 @@ params:
           url: https://github.com/abhinjata
         - name: Substack
           url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
         - name: Twitter
-          url: https://twitter.com/McCallSmith
+          url: https://x.com/letsgraphmylife
 
     assets:
         disableScrollBarStyle: true

@@ -31,7 +31,7 @@ params:
     author: Abhinav Jata
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: light
+    defaultTheme: dark
     hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: false
@@ -44,11 +44,11 @@ params:
     ShowAllPagesInArchive: false
     MainSections: ["articles","portfolio","papers","data"]
     ShowToc: false
-    disableScrollToTop: true
+    disableScrollToTop: false
     TocOpen: true
     ShowWordCount: false
     UseHugoToc: true
-    comments: false
+    comments: true
     math: true
     profileMode:
           enabled: true

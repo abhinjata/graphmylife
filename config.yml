@@ -90,7 +90,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Graph My Life"
-      icon: favicon.ico
+      icon: favicon.png
       iconHeight: 18
 
 markup:

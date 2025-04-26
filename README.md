@@ -1,6 +1,6 @@
 # Hey! My website is currently down but here's what I used and who I am.
 
-I'm Abhinav, you can call me A.J. I'm a student of Computer Science who has a deep passion for journalism, social sciences, politics, philosophy, and more. Here, I post all my pieces of writing! Happy reading.
+I'm Abhinav, you can call me AJ. I'm a student of Computer Science who has a deep passion for journalism, social sciences, politics, philosophy, and more. Here, I post all my pieces of writing! Happy reading.
 
 # Minimalist Hugo Template for Academic Websites
 

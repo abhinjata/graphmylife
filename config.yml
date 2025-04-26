@@ -52,8 +52,8 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Abhinav Jata
-          subtitle: "Hi."
+          title: A.J.
+          subtitle: "Hey, I'm AJ. This is a website where I share all my pieces of writing relating to my vast array of academic interests tied with my passion for journalism. You'll find that I'm interested in computer science, politics, philosophy, social sciences, current affairs, and a great passion for arts and humanities. Welcome to my stage, have a seat."
           imageUrl: "1c11fb41fe5e8057f2eba1fcdb547646.jpg"
           imageWidth: 160
           imageHeight: 160

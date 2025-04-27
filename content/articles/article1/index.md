@@ -1,6 +1,15 @@
-# Illusions of the Voting System in India: Why do we vote?
-
-### Published by AJ on December 5, 2024
+---
+title: "Illusions of the Voting System in India: Why do we vote?" 
+date: 2024-12-05
+lastmod: 2024-07-12
+tags: ["politics"]
+author: ["A.J."]
+description: "We live in an illusion, our choice is oppressed." 
+summary: "We live in an illusion, our choice is oppressed." 
+cover:
+    alt: "Some Uses For Olive Oil"
+    relative: false
+---
 
 Currently, in this day and age, political parties and campaigns yearn for people to make their vote “count”. The current system is leaning towards asking for a mandate in voting, but with the current range of choices, if a person is aware about their standpoint and beliefs, they should be allowed to practice their freedom of choice to stand their ground and not vote.
 

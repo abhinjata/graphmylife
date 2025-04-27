@@ -1,6 +1,6 @@
-## Illusions of the Voting System in India: Why do we vote?
+# Illusions of the Voting System in India: Why do we vote?
 
-# Published by AJ on December 5, 2024
+### Published by AJ on December 5, 2024
 
 Currently, in this day and age, political parties and campaigns yearn for people to make their vote “count”. The current system is leaning towards asking for a mandate in voting, but with the current range of choices, if a person is aware about their standpoint and beliefs, they should be allowed to practice their freedom of choice to stand their ground and not vote.
 

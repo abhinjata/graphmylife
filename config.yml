@@ -27,7 +27,7 @@ menu:
           weight: 6
 
 params:
-    description: "Hey, I'm AJ. This is a website where I share all my pieces of writing relating to my vast array of academic topics tied with my passion for journalism. You'll find that I'm interested in computer science, politics, philosophy, social sciences, current affairs, and a great passion for arts and humanities. Welcome to my stage, have a seat."
+    description: "Hey, I'm AJ. This is a website where I share all my pieces of writing relating to my vast array of academic interests tied with my passion for journalism. You'll find that I'm interested in computer science, politics, philosophy, social sciences, current affairs, and a great passion for arts and humanities. Welcome to my stage, have a seat."
     author: A.J.
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"

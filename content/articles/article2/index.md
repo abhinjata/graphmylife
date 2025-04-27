@@ -1,0 +1,18 @@
+---
+title: "Beyond “Conventional”: The beauty of becoming a free thinker" 
+date: 2024-12-05
+lastmod: 2024-07-12
+tags: ["politics", "philosophy"]
+author: ["A.J."]
+description: "Break the conventional, embrace your free spirit." 
+summary: "Break the conventional, embrace your free spirit." 
+cover:
+    alt: "Some Uses For Olive Oil"
+    relative: false
+---
+
+Why do we read poetry, literature or philosophy? We don’t read poetry, literature or philosophy because we’re expected to analyze which singular thought process is right. If you were to read Albert Camus, Franz Kafka or Friedrich Dostoevsky, we’re not to pick one of their ideologies and dedicate all our lives to it. We’re not to pick Camus and say that Absurdism is what’s right. That is not why we read philosophy. We read philosophy because we’re part of the human race and we humans are passionate. The one advantage that we have over all these writers who gone by is that we live in the current society, we know how things have changed and we have the information of all things that can and have to be improved. With all this knowledge, we take the best out of all these great minds, we resonate with what we agree with and then we question what we suspect. And that beauty of questioning is what makes us free thinkers. Free thinkers of a society who will take the best out of every writer and then to add our own free opinions and thoughts which we believe works for ourselves and the society today to build something that we truly can call our own mindset, our own philosophy. The goal, I repeat, to build and develop something we truly believe works for the day and age we currently live in. This curiosity that sparks in truly questioning how we can make something better is the passion that drives the human race.
+
+And this curiosity is not confined to subjects of philosophy or literature. This curiosity and freedom of thought is what drives everything. This is what drives computer science, mathematics, physics, and everything that can be subject to questioning. All science is about questioning whether it is subject to improvement and to develop something that you can truly call your own. With science, you must question the conventions that are implied on you, to break the shackles of tradition, and to question whether there’s a better way to build something for society which you can proudly say that has contributed positively because you were a free thinker. You questioned what you could you do further and you questioned what you were expected from. Breaking conventionality, tradition and building your own thought process is what makes us the free thinkers of society who can truly develop and do things better than they were, because everything and anything is subject to growth and change. This is the foundation of philosophy, this is the foundation of building yourself as a free thinker.
+
+Computer Science is a vast subject, but what differentiates every computer science student this in world today? What differentiates every student of computer science is how they perceive the beauty of it. How they question how Computer Science and Technology can be implemented and applied to truly bring out the beauty of it. From all the facts and knowledge that we learn about Computer Science, our next responsibility as the human race is to be a free thinker who can perceive the beauty in how we can use this wonderful tool to develop and build something that you truly believe in. To freely think and to question how you can connect dots which have never been connected before, to question how things can be improved, to question how you can bring out the warm beauty in the cold logic you have learnt is what drives society.

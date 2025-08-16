@@ -2,7 +2,7 @@
 title: "Materialism relative to Pleasures and Discipline" 
 date: 2024-12-05
 lastmod: 2024-07-12
-tags: ["politics"]
+tags: ["philosophy"]
 author: ["A.J."]
 description: "Materialism provides only short-term pleasure, not true happiness, and a fulfilling life requires focusing on self-improvement and long-term goals." 
 summary: "Materialism provides only short-term pleasure, not true happiness, and a fulfilling life requires focusing on self-improvement and long-term goals."

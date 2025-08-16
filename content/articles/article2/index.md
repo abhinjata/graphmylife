@@ -4,8 +4,8 @@ date: 2024-12-05
 lastmod: 2024-07-12
 tags: ["politics", "philosophy"]
 author: ["A.J."]
-description: "Break the conventional, embrace your free spirit." 
-summary: "Break the conventional, embrace your free spirit." 
+description: "Break the conventional, embrace your free spirit. We read poetry and philosophy not to adopt a single belief system, but to take what resonates with us, question what we suspect, and use those ideas to form our own unique perspective. This same principle of curiosity and free thinking is what drives all fields, from literature to computer science, allowing us to break from tradition and build new and better things." 
+summary: "Break the conventional, embrace your free spirit. We read poetry and philosophy not to adopt a single belief system, but to take what resonates with us, question what we suspect, and use those ideas to form our own unique perspective. This same principle of curiosity and free thinking is what drives all fields, from literature to computer science, allowing us to break from tradition and build new and better things." 
 cover:
     alt: "Some Uses For Olive Oil"
     relative: false

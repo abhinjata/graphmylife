@@ -1,14 +1,14 @@
 ---
-title: "Romanticizing Selfishness: there’s no such thing as a selfless good deed" 
+title: "Romanticizing Selfishness: there’s no such thing as a selfless good deed"
 date: 2024-12-05
 lastmod: 2024-07-12
 tags: ["philosophy"]
 author: ["A.J."]
-description: "Selfishness, even in good deeds, is an inherent part of human nature, with the distinction between "positive" and "negative" selfishness being a social construct. The article suggests finding a balance between actions that benefit both the individual and society." 
-summary: "Selfishness, even in good deeds, is an inherent part of human nature, with the distinction between "positive" and "negative" selfishness being a social construct. The article suggests finding a balance between actions that benefit both the individual and society." 
+description: 'Selfishness, even in good deeds, is an inherent part of human nature, with the distinction between "positive" and "negative".'
+summary: 'Selfishness, even in good deeds, is an inherent part of human nature, with the distinction between "positive" and "negative".'
 cover:
-    alt: "Some Uses For Olive Oil"
-    relative: false
+  alt: "Some Uses For Olive Oil"
+  relative: false
 ---
 
 “There’s no such thing as a selfless good deed” 

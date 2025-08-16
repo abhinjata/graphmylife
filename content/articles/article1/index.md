@@ -4,8 +4,8 @@ date: 2024-12-05
 lastmod: 2024-07-12
 tags: ["politics"]
 author: ["A.J."]
-description: "We live in an illusion, our choice is oppressed." 
-summary: "We live in an illusion, our choice is oppressed." 
+description: "We live in an illusion, our choice is oppressed. People should have the right not to vote when political choices force them to choose the "lesser evil," as the two-party system often alienates free-thinking individuals who don't align with either platform." 
+summary: "We live in an illusion, our choice is oppressed. People should have the right not to vote when political choices force them to choose the "lesser evil," as the two-party system often alienates free-thinking individuals who don't align with either platform." 
 cover:
     alt: "Some Uses For Olive Oil"
     relative: false

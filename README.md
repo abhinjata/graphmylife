@@ -1,6 +1,8 @@
-# Hey! My website is currently down but here's what I used and who I am.
+# Graph My Life
 
 I'm Abhinav, you can call me AJ. I'm a student of Computer Science who has a deep passion for journalism, social sciences, politics, philosophy, and more. Here, I post all my pieces of writing! Happy reading.
+
+The name "Graph My Life" comes from the deliberate need to give a material meaning to life in the logical and rational sense, aiming to push the boundaries and oppose telelogy.
 
 ![Alt text](public/kaisergoof.png)
 

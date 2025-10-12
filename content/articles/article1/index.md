@@ -1,15 +1,22 @@
 ---
-title: "Illusions of the Voting System in India: Why do we vote?" 
+title: "Illusions of the Voting System in India: Why do we vote?"
 date: 2024-12-05
 lastmod: 2024-07-12
 tags: ["politics"]
 author: ["A.J."]
-description: 'We live in an illusion, our choice is oppressed. People should have the right not to vote when political choices force them to choose the "lesser evil," as the two-party system often alienates free-thinking individuals who don't align with either platform.' 
-summary: 'We live in an illusion, our choice is oppressed. People should have the right not to vote when political choices force them to choose the "lesser evil," as the two-party system often alienates free-thinking individuals who don't align with either platform.' 
+description: >
+  We live in an illusion, our choice is oppressed. People should have the right not to vote when political choices
+  force them to choose the "lesser evil," as the two-party system often alienates free-thinking individuals who don't
+  align with either platform.
+summary: >
+  We live in an illusion, our choice is oppressed. People should have the right not to vote when political choices
+  force them to choose the "lesser evil," as the two-party system often alienates free-thinking individuals who don't
+  align with either platform.
 cover:
-    alt: "Some Uses For Olive Oil"
-    relative: false
+  alt: "Some Uses For Olive Oil"
+  relative: false
 ---
+
 
 Currently, in this day and age, political parties and campaigns yearn for people to make their vote “count”. The current system is leaning towards asking for a mandate in voting, but with the current range of choices, if a person is aware about their standpoint and beliefs, they should be allowed to practice their freedom of choice to stand their ground and not vote.
 

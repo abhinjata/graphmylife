@@ -4,7 +4,7 @@ date: 2024-12-05
 lastmod: 2024-07-12
 tags: ["philosophy"]
 author: ["A.J."]
-description: "To achieve long-term happiness and a rich life, one must choose discipline over short-term pleasures. 
+description: "To achieve long-term happiness and a rich life, one must choose discipline over short-term pleasures." 
 summary: "To achieve long-term happiness and a rich life, one must choose discipline over short-term pleasures.." 
 cover:
     alt: "Some Uses For Olive Oil"

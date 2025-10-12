@@ -4,12 +4,15 @@ date: 2024-12-05
 lastmod: 2024-07-12
 tags: ["philosophy"]
 author: ["A.J."]
-description: 'Selfishness, even in good deeds, is an inherent part of human nature, with the distinction between "positive" and "negative".'
-summary: 'Selfishness, even in good deeds, is an inherent part of human nature, with the distinction between "positive" and "negative".'
+description: >
+  Selfishness, even in good deeds, is an inherent part of human nature, with the distinction between "positive" and "negative".
+summary: >
+  Selfishness, even in good deeds, is an inherent part of human nature, with the distinction between "positive" and "negative".
 cover:
   alt: "Some Uses For Olive Oil"
   relative: false
 ---
+
 
 “There’s no such thing as a selfless good deed” 
 
